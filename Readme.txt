@@ -1,4 +1,4 @@
-Garage
+MyGarage
 
 Garage is a software managment sustem used to organize and coordinate movements inside any parking lot.
 It can used by any business organization that has a parking lot. It has a simple and user-friendly interface to
